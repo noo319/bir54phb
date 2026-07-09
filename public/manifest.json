@@ -1,0 +1,11 @@
+{
+  "name": "MAYKI UC SHOP 24/7",
+  "short_name": "MAYKI UC",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080608",
+  "theme_color": "#e01818",
+  "icons": [
+    { "src": "/assets/mayki-logo.jpeg", "sizes": "512x512", "type": "image/jpeg" }
+  ]
+}
