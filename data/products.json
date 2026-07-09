@@ -1,0 +1,22 @@
+{
+  "pubg_uc": [
+    { "id": "uc_60", "title": "60 UC", "amount": 60, "priceRub": 75 },
+    { "id": "uc_325", "title": "325 UC", "amount": 325, "priceRub": 400 },
+    { "id": "uc_385", "title": "385 UC", "amount": 385, "priceRub": 480 },
+    { "id": "uc_660", "title": "660 UC", "amount": 660, "priceRub": 780 },
+    { "id": "uc_720", "title": "720 UC", "amount": 720, "priceRub": 860 },
+    { "id": "uc_985", "title": "985 UC", "amount": 985, "priceRub": 1180 },
+    { "id": "uc_1045", "title": "1045 UC", "amount": 1045, "priceRub": 1260 },
+    { "id": "uc_1320", "title": "1320 UC", "amount": 1320, "priceRub": 1560 },
+    { "id": "uc_1800", "title": "1800 UC", "amount": 1800, "priceRub": 1900 },
+    { "id": "uc_3850", "title": "3850 UC", "amount": 3850, "priceRub": 3750 },
+    { "id": "uc_8100", "title": "8100 UC", "amount": 8100, "priceRub": 7400 }
+  ],
+  "prime_plus": [
+    { "id": "prime_1m", "title": "Prime Plus 1 месяц", "months": 1, "priceRub": 950 },
+    { "id": "prime_3m", "title": "Prime Plus 3 месяца", "months": 3, "priceRub": 2500 },
+    { "id": "prime_6m", "title": "Prime Plus 6 месяцев", "months": 6, "priceRub": 4900 },
+    { "id": "prime_12m", "title": "Prime Plus 12 месяцев", "months": 12, "priceRub": 9450 }
+  ],
+  "payments": ["СБП", "Банковские карты РФ", "USDT"]
+}
